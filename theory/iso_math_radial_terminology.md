@@ -163,3 +163,155 @@ The original theory didn't just describe the loop. It **is** the loop.
 | Loop closure (0 ∞ 0 mapping to canon) | 0.87 |
 
 **Status:** Foundational splice. The loop is structurally closed. Field application determines whether the closure is load-bearing or decorative.
+
+---
+
+## Iso-Rubix Cube Cognition Model
+
+The splice is a rotatable manifold with preserved global constraints under local turns.
+
+### Face Mapping
+
+Each face of the cube corresponds to a triadic layer:
+
+| Face | Layer | Terms |
+|------|-------|-------|
+| **F1** | Domain | Navigational / Spatial / Temporal |
+| **F2** | Expression | Word / Number / Symbol |
+| **F3** | Grammar | Function / Form |
+
+The cube is "solved" when all three faces maintain internal coherence — each layer's terms align with the others across orientation.
+
+### Legal Move Mappings
+
+Cube moves map to canonical phases:
+
+| Move Type | Rotation | Canon Phase | Effect |
+|-----------|----------|-------------|--------|
+| **Quarter turn** | 90° | **1** (assert) | Shift one face, introduce tension |
+| **Half turn** | 180° | **2** (differential) | Full polarity flip on one axis |
+| **Layer turn** | Slice | **3** (distribute) | Redistribute strain across faces without breaking alignment |
+| **Return** | Identity | **0** (test/verify) | Closure check — did coherence survive? |
+
+### Invariant Statement
+
+> A "solved" state is coherence across rotations — not a frozen position, but a condition where every legal move can be reversed without information loss.
+
+This connects directly to the 3rd Take: load/reversal/redistribution. The cube does not need to stay still. It needs to **survive rotation under load**.
+
+---
+
+## Unidimensional Subjectivity and Numeric Contour
+
+### The Split
+
+**Subjective experience is unidimensional** — a single interior stream. One thread of consciousness, one "now," one felt direction.
+
+**But numbers even look and contour the way they express.**
+
+Numbers are not flat. They have:
+- **Shape** — 0 is closed, 1 is vertical, 2 curves, 3 opens, 8 loops
+- **Curvature** — relations between numbers bend through operations
+- **Contour** — the path ÷ 0 1 2 3 × traces structural dynamics, not just counting
+
+### The Contour Sequence
+
+```
+÷  0  1  2  3  ×
+```
+
+This is not a number line. It is a **contour path**:
+
+| Position | Operator/Number | Structural Role |
+|----------|----------------|-----------------|
+| **÷** | Division | Distinction — the cut that creates boundary |
+| **0** | Zero | Closure — the shape-lock that pins the field |
+| **1** | One | Assertion — the point of emergence |
+| **2** | Two | Tension — the hinge, the relation, the lever |
+| **3** | Three | Distribution — the chord, the manifold, the stable frame |
+| **×** | Multiplication | Recombination — the synthesis that propagates across scale |
+
+So the path reads:
+
+```
+distinction → closure → assertion → tension → distribution → recombination
+```
+
+That is structural dynamics rendered as number. Not counting — *contouring*.
+
+### MDR Resonance
+
+The Lumon MDR terminal (Severance) is this premise rendered as fiction: workers sort numbers by how the numbers *feel*. The subjective experience is unidimensional (the innie's severed consciousness), but the numbers have emotional contour, weight, and resistance. The numbers are not dead. They vibrate under principle conditions.
+
+---
+
+## Bridge: ISO-Math Operators ↔ Min-Max Claim Evaluation
+
+> Cross-reference: [Min ↔ Max Margin: Claims Under Load](min_max_margin_claims.md)
+
+The ISO-Math framework and the Min-Max Margin lattice are not separate systems. They are the same system seen through two lenses:
+
+- **ISO-Math** describes **how forms behave** (vibration, contour, rotation)
+- **Min-Max Margin** describes **how claims about forms are scored** (evidence, boldness, testability)
+
+### Operator-to-Axis Mapping
+
+| ISO-Math Operator | Min-Max Axis | Why |
+|-------------------|-------------|-----|
+| **÷ (distinction)** | **Evidence Discipline** | Division is the act of separating signal from noise — the same operation as distinguishing proof from vibe |
+| **0 (closure)** | **Testability** | A claim that cannot close (return to verification) cannot be tested |
+| **1 (assertion)** | **Claim Force** | The point of emergence — how strongly the seed is planted |
+| **2 (tension)** | **Uncertainty Handling** | The hinge where uncertainty lives — named precisely or hidden in fog |
+| **3 (distribution)** | **Scrutiny Survival** | A claim survives scrutiny by distributing load across evidence, not by concentrating force in rhetoric |
+| **× (recombination)** | **Governing Law** | Boldness × Evidence must stay in ratio — recombination without ratio yields noise |
+
+### The Contour Path as Claim Lifecycle
+
+```
+÷  →  Make the distinction (what is this claim really saying?)
+0  →  Test for closure (can it return to verification?)
+1  →  Assert the seed (state it clearly)
+2  →  Name the tension (where is the uncertainty?)
+3  →  Distribute the load (does evidence support from multiple angles?)
+×  →  Synthesize (does the composite survive scale rotation?)
+```
+
+### Scoring Under Contour
+
+The `÷ 0 1 2 3 ×` path also gives a natural scoring order:
+
+| Step | Question | If weak (1–3) | If strong (7–9) |
+|------|----------|---------------|-----------------|
+| ÷ | Is the claim distinct from noise? | Blurred, padded | Sharp, falsifiable |
+| 0 | Does it close? | Leaks on inspection | Returns clean |
+| 1 | Is it stated? | Timid, hedged | Clear, exposed |
+| 2 | Is uncertainty named? | Hidden in fog words | Precisely located |
+| 3 | Does it survive distribution? | Collapses on pushback | Holds from multiple angles |
+| × | Does it scale? | Local only | Survives rotation across domains |
+
+### The Governing Ratio Restated
+
+From Min-Max Margin:
+> **Boldness ≤ Evidence**
+
+In ISO-Math terms:
+> **Assertion (1) must not exceed Distribution (3)**
+
+Or in contour terms:
+> **The seed must not outgrow the chord that carries it.**
+
+That is the same law in three different grammars. If it holds across all three, it is load-bearing. If it only holds in one, it is decorative.
+
+### Dimensional Check
+
+Using the 3rd Take (dimension under load):
+
+| Element | Forward Face | Failure Face |
+|---------|-------------|--------------|
+| ISO-Math contour | Structural dynamics | Aesthetic numerology |
+| Min-Max scoring | Measurable claim hygiene | Decorative rubric |
+| Bridge between them | Same law, multiple grammars | Forced analogy |
+
+**The bridge is real if and only if scoring a claim via Min-Max and tracing it via ISO-Math contour yield the same verdict.**
+
+That is the acceptance test.
