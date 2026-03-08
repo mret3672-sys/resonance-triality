@@ -14,6 +14,14 @@ The governing law is:
 
 Any claim can be scored on five axes (the ruler), but no claim may outrun its evidential base.
 
+
+### Suggested axis labels (operational)
+- **Evidence Discipline**: separating signal from noise before scoring.
+- **Testability**: explicit reset frame and falsifiability condition.
+- **Claim Force**: strength and scope of assertion.
+- **Uncertainty Handling**: treatment of counter-poles and ambiguity.
+- **Scrutiny Survival**: stability across redistributed contexts.
+
 ## 2) Dimensional Primitives
 
 ### 0-1-2-3 closure loop
@@ -62,3 +70,5 @@ Each term must be legible in two faces:
 ## 5) Compression
 
 > **Reality is not just what holds. It is what holds while breakage is pressing on it.**
+
+See also: `theory/iso_math_radial_terminology.md` (Bridge to Min↔Max Margin Claims).

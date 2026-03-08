@@ -81,6 +81,24 @@ If the splice is rendered as a mental object, it behaves like an **iso-Rubix cub
 
 This is the same law as the dialectical frame: identity is measured by what survives load, reversal, and redistribution.
 
+
+## Bridge to Min↔Max Margin Claims
+
+This splice can be evaluated directly against the Min↔Max ruler by mapping the contour path to scoring operations:
+
+- **➗ (distinction)** → **Evidence Discipline** (separate signal from noise before scoring).
+- **0 (closure)** → **Testability** (reset to a falsifiable frame).
+- **1 (assertion)** → **Claim Force** (state the proposition with bounded scope).
+- **2 (tension)** → **Uncertainty Handling** (explicitly track counter-poles and ambiguity).
+- **3 (distribution)** → **Scrutiny Survival** (check whether claims hold across contexts).
+- **✖️ (recombination)** → **Governing Law enforcement** (**Boldness ≤ Evidence**) during synthesis return.
+
+### Acceptance test
+
+A bridge is valid iff a claim scored through Min↔Max and the same claim traced through **➗ 0 1 2 3 ✖️** produce the same verdict under load.
+
+See also: `theory/min_max_margin_claims.md` (Ruler and synthesis canon).
+
 ## Canon alignment
 - **0 tests**
 - **1 asserts**
