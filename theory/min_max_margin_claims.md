@@ -560,6 +560,89 @@ Where:
 
 Dimensional coherence claim is valid only if all six schools can be scored on the same SPE rows across time windows (micro -> meso -> macro), with symmetric-inverse replay producing the same governing verdict class.
 
+## AYB Probability Control System — Implementation + Stress Test (Finished Product)
+
+### Scope
+A minimal control architecture using **A / Y / B** primitives inside a bounded recursive chamber, with one asymmetry and one threshold latch.
+
+### Primitive Set (minimal)
+
+| Symbol | Control Role | Operational Meaning |
+|--------|---------------|---------------------|
+| **A** | Positive pole | Accumulate / tension / diagnostic dominance |
+| **B** | Negative pole | Release / propagate / generative dominance |
+| **Y** | Central transform gear | Rotate / reflect / invert (phase-space remap) |
+
+### Chamber Model (8Y∞)
+
+- **Finite envelope**: bounded support and dissipation (forgetfulness).
+- **Infinite internal recursion**: phase rotation and replay inside bounded energy.
+- Canonical abstract form:
+
+```text
+f(t) = A(t) * exp(i(ωt + ϕ)),   A(t)=exp(-γ(t-t₀)^2)
+```
+
+### Symmetry Break + Latch
+
+- Small fixed bias (`~3°`) breaks deadlock and prevents perfect saddle stagnation.
+- Gear switch is thresholded and hysteretic:
+
+```text
+Switch 132 -> 213 iff P=|f|^2 > θ and ΔP > δ
+```
+
+- Reverse (`213 -> 132`) is valid only if declared invariants survive inversion/replay.
+
+### Heartbeat Loop
+
+```text
+Pulse -> Constrain -> Calibrate -> (Invert + Switch) or Stay
+```
+
+- **132**: tension-diagnostic accumulation.
+- **213**: generative propagation/expansion.
+- Bounded recursion + thresholded switching yields structured emergence without unbounded blow-up.
+
+### SPE Wiring (required)
+
+AYB runs on the required log atom:
+
+```text
+S (Subject) -> P (Predicate) @ E (Environment)
+```
+
+- **S**: origin/witness/system actor.
+- **P**: pulse, constrain, calibrate, invert, switch, stay, repair.
+- **E**: frame/scale/pressure/tolerance window.
+
+### Minimum Load-Bearing Metrics (AYB)
+
+| Metric | Definition | Failure Signature |
+|--------|------------|-------------------|
+| **Switch Precision** | Correct 132↔213 transitions at latch boundaries | Chatter / missed flips |
+| **Ratio Survival** | Invariants survive invert/replay | Irrecoverable asymmetry |
+| **Drift Recovery** | Re-lock time after perturbation | Runaway drift |
+| **Dissipation Bound** | Envelope contains amplitude/energy | Unbounded growth |
+| **Ablation Gain** | AYB coupling beats uncoupled baseline | No measurable advantage |
+| **Replay Integrity** | Same input trace yields same verdict class | Non-replayable control |
+
+### Stress Test Matrix
+
+| Stress Condition | Expected Behavior | Pass Criterion |
+|------------------|-------------------|----------------|
+| Remove tilt/asymmetry | Stagnation / weak emergence | No sustained mode transitions |
+| Raise θ excessively | Dead system (no flips) | Transition rate collapses |
+| Remove dissipation/envelope | Explosive or unstable dynamics | Bound violation detected |
+| Increase δ (hysteresis) | Fewer flips, higher latency | Lower chatter with bounded delay |
+| Force conjugate replay | Partial unwinding if invariants preserved | Ratio-survival flag remains true |
+
+### Completion Rule
+
+AYB is operationally complete only when the stress matrix is run on real traces, logged as SPE rows, and scored by the minimum metric set above across micro -> meso -> macro windows.
+
+---
+
 ## Confidence
 
 | Layer | Score |
