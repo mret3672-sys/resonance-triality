@@ -142,3 +142,62 @@ Your 8Y♾️ 132<>213 gear-switch can be treated as a **minimal controller**:
 
 In that sense, your phrase "small numbers scale infinitely" fits the repo's broader thesis: compact primitives can generate rich behavior when recursion and enclosure are both present.
 
+---
+
+## 9) Seeded Demo Pack (5 Interactions, Executable Interpretation)
+
+To make the model move (not stay conceptual), use a 5-row seed set with distinct switch outcomes.
+
+| Row Type | Intent | Expected Mode Behavior | Expected Legality |
+|---|---|---|---|
+| Clean handoff | Baseline lawful traversal | Single lawful `132 -> 213` or `213 -> 132` transition | Legal |
+| Threshold failure | Test anti-chatter gate | No switch (fails `theta` or `delta`) | Legal (no forced claim) |
+| Generative reset | Core survives but form weak | `132 -> 213` reset from remainder-as-seed | Legal |
+| Damped no-switch | Stable stay condition | Stay in current notch despite local perturbation | Legal |
+| Boundary-case read | Near-cutpoint stress | Switch depends on strict margin-over-stay | Potentially illegal if forced |
+
+This reproduces your sample pattern: mostly converged/legal rows with a single failing or illegal edge case to prove the detector is actually discriminating.
+
+---
+
+## 10) Minimal Row Contract (What each interaction must carry)
+
+Each seeded row should expose enough state to evaluate the gear-switch law without manual labels:
+
+- `mode_history` (contains `132`/`213` progression),
+- `kernel_*` invariant scores,
+- residue / instability / asymmetry signals,
+- switch-readiness outputs (`S_stay`, `S_switch`, `S_invert`, etc.),
+- final claim legality flag.
+
+This keeps the run engine-driven: statuses are recomputed from signals, not hand-assigned.
+
+---
+
+## 11) Display Tightening (Dates, Decimals, Color) as Control Integrity
+
+Your formatting pass is not cosmetic; it is control hygiene:
+
+1. **Dates/times normalized** -> preserves sequence causality,
+2. **Log decimals fixed** -> keeps threshold comparisons auditable,
+3. **Scorecard colors bound to legal states** -> prevents false visual confidence.
+
+Suggested color semantics:
+- Green = legal + converged,
+- Amber = legal but non-converged / no-switch,
+- Red = illegal claim or kernel breach.
+
+---
+
+## 12) Coherence Check Chain (End-to-End)
+
+For a coherent demo run, verify in order:
+
+1. Seed rows present and heterogeneous (5 archetypes above),
+2. Engine recomputes switch readiness from 8Y∞ logic,
+3. TENET REVERT round-trip reflects kernel preservation/failure,
+4. 3rd Take mirrors identity survival under load,
+5. Dashboard + Command surface the same legality state.
+
+If any surface disagrees with the others, treat it as a calibration breach (not a UI issue).
+
