@@ -479,6 +479,38 @@ stabilize -> pressurize -> dampen -> invert -> replay log -> leak verdict
 
 Any leak that appears only under constrained perception is logged as latent structural debt, not ignored as observational noise.
 
+
+### Numeric Render Rule (Replace Color Semantics)
+
+For visual artifacts, **numbers are canonical; colors are optional render only**.
+
+- Do not encode state identity with color words (e.g., "red zone", "blue mode").
+- Encode every face/state/channel as a numeric index with explicit bounds.
+- If color is present in a figure, it must be secondary annotation tied to the numeric key.
+
+Canonical index set for this framework:
+
+| Numeric Key | Role |
+|-------------|------|
+| 0 | Closure / anchor |
+| 1 | Origin / seed |
+| 2 | Hinge / relation |
+| 3 | Closure manifold / chord |
+| 4 | Frame / quadrant |
+| 5 | Midpoint / seam |
+| 6 | Bridge (dyadic↔triadic crossover) |
+| 7 | Offset / asymmetry challenge |
+| 8 | Recursive enclosure |
+| 9 | Saturation / terminal return |
+
+Operational requirement:
+
+```text
+any visual state = numeric_key + tolerance + transform_path + replay_log_id
+```
+
+This removes color-dependence and keeps replayability invariant across displays, palettes, or perception conditions.
+
 ## Confidence
 
 | Layer | Score |
