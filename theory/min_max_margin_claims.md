@@ -523,3 +523,19 @@ This removes color-dependence and keeps replayability invariant across displays,
 | Practical testability of the whole frame | 0.70 |
 
 **Status:** Framework-grade. Needs field application (3–5 real scored interactions) before claiming operational closure.
+
+---
+
+## Abstract Convergence (Inspiration Card)
+
+Use this as a compact prompt when running a Rubik-style reasoning session from a diagram/photo.
+
+1. **Frame the image numerically**: replace color labels with numeric keys (`0..9`).
+2. **Extract three witnesses**: one radial pattern, one structural scaffold, one dynamic transform.
+3. **Run the polarity pair**: `132` (inside-frame build) and `213` (field-distribution read).
+4. **Check conservation**: same ratio class must survive rotate/invert/scale.
+5. **Log only what replays**: `numeric_key + tolerance + transform_path + replay_log_id`.
+
+Compression:
+
+> **The image gives the addresses, the frame gives the box, the transform gives the song.**
