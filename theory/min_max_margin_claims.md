@@ -511,6 +511,55 @@ any visual state = numeric_key + tolerance + transform_path + replay_log_id
 
 This removes color-dependence and keeps replayability invariant across displays, palettes, or perception conditions.
 
+
+## Minimum Load-Bearing Axioms & Metrics (Dimensional Coherence)
+
+Yes — **Subject / Predicate / Environment (SPE)** is included as a required schema.
+
+### Six Load-Bearing Schools (minimum set)
+
+1. **First-Person School (Subject)**  
+   Tracks origin-state and intent from the acting center (`I`).
+2. **Witness School (Second Index)**  
+   Tracks external observer read (`you / they`) as an independent channel.
+3. **Internal School**  
+   Tracks intra-system coherence (self-consistency under stated rules).
+4. **Rotation School**  
+   Tracks transform survivability across rotate / invert / scale.
+5. **External Field School (Environment)**  
+   Tracks environment pressure, constraints, and drift drivers.
+6. **Symmetric-Inverse School**  
+   Tracks counter-pole replay (`132 ↔ 213`) and ratio return integrity.
+
+### SPE Atom (required log unit)
+
+Every claim row is logged as:
+
+```text
+S (Subject) -> P (Predicate) @ E (Environment)
+```
+
+Where:
+- **S** = who/what is asserting or acting (origin, witness, system, field agent).
+- **P** = measurable transform/action claim (e.g., switch, repair, invert, hold).
+- **E** = bounded context (time window, frame, scale, pressure state).
+
+### Minimum Metrics (per row)
+
+| Metric | Purpose | Pass Signal |
+|--------|---------|-------------|
+| **Coherence** | Internal consistency under declared rules | Non-degrading across replay |
+| **Prediction Match** | Did predicted transition occur | `match > baseline` |
+| **Ratio Survival** | Invariant survives rotate/invert | `1 = survives`, `0 = breaks` |
+| **Drift Magnitude** | Distance from baseline/tolerance | Returns inside margin after re-lock |
+| **Repair Gain** | Recovery efficacy after contradiction | Post-repair coherence uplift |
+| **Ablation Delta** | Complexity earns keep | Coupled model beats simpler baseline |
+| **Replay Integrity** | Full trace reproducibility | Same verdict from same log |
+
+### Coordination Requirement Over Time
+
+Dimensional coherence claim is valid only if all six schools can be scored on the same SPE rows across time windows (micro -> meso -> macro), with symmetric-inverse replay producing the same governing verdict class.
+
 ## Confidence
 
 | Layer | Score |
