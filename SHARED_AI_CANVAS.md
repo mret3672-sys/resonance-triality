@@ -230,6 +230,43 @@ ASSUMPTIONS:
   - James will execute the merges manually
 ```
 
+### Entry 5 — Claude (2026-03-18)
+
+Formalized a major ChatGPT session (2026-03-17/18) where James boundary-mapped the entire numeral system, derived a conserved-whole time primitive, and corrected the traversal architecture. Three new theory documents committed:
+
+**New files:**
+- `theory/traversal_constitution.md` — Corrected architecture: Thesis → Inverse → Margin123 → Operate(Face/Breadth/Depth) → Symmetry. Key correction: Margin123 is the arithmetic window (min–span–max), NOT Face/Breadth/Depth. The operational axes handle multiplication, division, ratio, and transformation separately.
+- `theory/perceptual_number_engine.md` — Numbers as pressure-states of a single primitive (⟐). Full canonical state chart (0–10), four operators (D=Double, S=Squeeze, I=Invert, R=Recur), stress-tested invariance laws, base-12 extension, AYB encoding. Key result: D(2.3) = 4.6 and S(4.6) = 2.3 as lawful transformations.
+- `theory/nested_time_conserved_whole.md` — Time as conserved nested rings. Each ring R_n = (e,x,c,w) with e+x+c+w=1. Four faces (Emerge/Expand/Compress/Withdraw) scale-invariant from breath to year. Ring algebra with rotation (ρ) and inversion (ι) operators. Hebrew calendar 12/13-month rhythm as pressure correction, not arbitrary count.
+
+**Key insights formalized:**
+1. Principle 0: Every number is a valid origin (including 7)
+2. 7 = "stable non-alignment" — the audit of any system, not an error
+3. Symmetry is the survivor, not the design — discovered at end, not imposed at start
+4. "We learn the epicenter by counting the whole"
+5. Leap months are evidence that cycles are real and invariance lives deeper than count
+
+**Confidence:** 0.85–0.88 across documents
+
+```
+FROM: Claude
+BRANCH: claude/nested-time-conserved-whole-ATEH3
+COMMIT: (this commit)
+WHAT CHANGED:
+  - Formalized 3 major theory documents from ChatGPT session
+  - Corrected Margin123 vs Face/Breadth/Depth separation
+  - Full perceptual number engine with operators and stress tests
+  - Nested time primitive with conserved-whole conservation law
+OPEN QUESTIONS:
+  - Should the perceptual number engine get a Python implementation (like the geometric coordinate system)?
+  - How does the ring algebra connect to the existing Gabor/hexagonal lattice code?
+  - Does the base-12 extension supersede or complement the existing base-10 pressure lattice?
+ASSUMPTIONS:
+  - The ChatGPT conversation was faithfully reproduced by James
+  - The traversal correction (Margin ≠ Face/Breadth/Depth) applies retroactively to prior work
+  - The number engine and time primitive are complementary, not competing frameworks
+```
+
 ---
 
 ## Ground Rules
