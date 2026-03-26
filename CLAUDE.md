@@ -22,47 +22,38 @@
 
 ## Repository Structure
 
-### Current State
+### 4-Layer Architecture (Implemented)
 
 ```
 resonance-triality/
-├── README.md                    # Project landing page
-├── CLAUDE.md                    # This file - AI assistant guide
-└── 01 Resonance Triality.md     # Placeholder for main document
-```
-
-### Planned 4-Layer Architecture
-
-```
-resonance-triality/
-├── core/                        [L1 - Axioms] (~12 KB)
-│   └── L1_AXIOMS.md            # Irreducible foundations
+├── core/                        [L0 + L1 - Invariant Core + Structural Grammar]
+│   ├── L0_INVARIANT_CORE.md    # Spiritual axioms, sovereignty equation, worship sequence
+│   ├── L1_STRUCTURAL_GRAMMAR.md # OCTO, GSSM, 132/231, Dive Sequence, Dualities
+│   └── CONNECTIVE_TISSUE.md    # Cross-layer threads binding all four layers
 │
-├── frameworks/                  [L2 - Operational Definitions] (~150 KB)
-│   ├── 132_protocol.md         # Detailed 3-movement breakdown
-│   ├── hp12_lattice.md         # All 12 pressure states defined
-│   ├── breath_physics.md       # Complete breathing protocols
-│   └── phonetic_topology.md    # Vowel/consonant dynamics
+├── frameworks/                  [L2 - Generative Engine]
+│   └── L2_GENERATIVE_ENGINE.md # Triality scaffolding, Life Matrix, PKM workflow
 │
-├── applications/                [L3 - Case Studies] (~300 KB)
-│   ├── customer_cases/         # 20-30 full scenarios
-│   ├── image_analyses/         # Epistemic verdicts
-│   └── pressure_examples/      # HP-12 detection walkthroughs
+├── applications/                [L3 - Deployment Surface]
+│   └── L3_DEPLOYMENT_SURFACE.md # Daily spine, sales operations, calendar/task architecture
 │
 ├── theory/                      [Extended Explorations]
-│   ├── gravitational_model/    # Mathematical foundations
-│   ├── thermodynamic_cognition/# Phase transition theory
-│   └── syllabic_time/          # Temporal quantum theory
+│   ├── iso_math_radial_terminology.md
+│   ├── min_max_margin_claims.md
+│   └── parallel_margins.md
 │
-├── assets/                      [Supporting Materials]
-│   ├── images/                 # Diagrams, visualizations
-│   └── tables/                 # CSV exports
+├── meta/                        [Methodology + Tracking]
+│   ├── BREADCRUMBS_FOR_GPT.md  # Cross-AI continuity
+│   ├── MENTOR_STACK.md         # External resonance sources by domain
+│   └── EPISTEMIC_DEBT.md       # Open items requiring validation
 │
-├── meta/                        [Methodology Documentation]
-│   └── COMPRESSION_STRATEGY.md # How content was crystallized
+├── validation/                  [Testing Infrastructure]
+│   ├── stress_test_council.py
+│   └── results/
 │
-└── archive/                     [L4 - Complete Original]
-    └── 01_Resonance_Triality.md # 1.2 MB full original content
+├── RESONANCE_TRIALITY_COMPLETE.md  # Full unified reference (~50 KB)
+├── TECHNICAL_IMPLEMENTATION.md     # Implementation guide for AI instances
+└── SHARED_AI_CANVAS.md            # Cross-AI collaboration context
 ```
 
 ---
