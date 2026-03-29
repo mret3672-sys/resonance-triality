@@ -259,6 +259,40 @@ The 3rd take is not "pick the middle." It is: **make the split itself structural
 
 > Reason is conserved rotation **within tolerance**. Beyond tolerance, rotation exposes hidden non-equivalence.
 
+---
+
+## Operator-Declared Number Families (0248 ↔ 369)
+
+Pattern claims are only load-bearing after the operator is declared.
+
+### Correlation Claim (Tight Form)
+
+- **0248** behaves like a dyadic scaling scaffold (split/frame/doubling).
+- **369** behaves like a triadic resonance scaffold (chord/bridge/saturation).
+- The relation is not "missing digits"; it is **coupled operator roles**.
+
+### Operator Check (Examples)
+
+Under different operators, cycle partitions differ:
+
+- **Last-digit doubling mod 10**: `2 → 4 → 8 → 6 → 2` (shows 6 as crossover).
+- **Digital-root doubling**: `1 → 2 → 4 → 8 → 7 → 5 → 1`, `3 ↔ 6`, `9 → 9`, `0 → 0`.
+
+So the strict partition is operator-dependent; e.g. `0 | 124875 | 36 | 9` under digital-root doubling.
+
+### Governance Rule
+
+> A number pattern is only real after the operator is named.
+
+Without an operator: suggestive correlation.
+With an operator: falsifiable structure.
+
+### Bridge and Closure
+
+- **6** is the bridge (belongs to both dyadic/even and triadic/divisible-by-3 structure).
+- **0** is the closure test (anchor/return condition).
+- **9** is the saturation return (fixed terminal under the declared transform).
+
 ### 1–9 / % Under Load
 
 | Range | Meaning Under Load |
@@ -293,6 +327,320 @@ Dₗ = identity capacity across closure/leak, leverage/rupture, resilience/rigid
 
 > **Reality is not just what holds. It is what holds while breakage is pressing on it.**
 
+
+---
+
+## Diamond/Axle Extension (Operator Layer)
+
+### Diamond Core and 5.0 Dot
+
+- **Diamond core** = fixed-point attractor that survives face/inverse rotation under declared operator.
+- **5.0 dot** = bounded midpoint address (`min=1.0`, `max=10.0`) used for collapse/reverse/split stress checks.
+- Synthetic closure is preparatory only; **operational closure requires real-street evidence**.
+
+### Vantage Operators (Spider / Owl / Bat)
+
+| Operator | Function | Win Condition |
+|---------|----------|---------------|
+| Spider | Topology capture via pre-placed zeros | Wins argument |
+| Owl | Phase-prediction intercept at zero-crossing | Wins battle |
+| Bat | Active ping for local topology recovery | Wins local resolution |
+
+### Tenet-Recur Closure
+
+> `tenet(recur(0))` is the closure operator: recurse the form through zero-return and test ratio survival.
+
+### Language ↔ Number Bridge
+
+- **Numbers** = standing coordinates (addresses under load).
+- **Language** = operator stream (transitions through time).
+- **Axle law**: free will selects orientation through the available symmetry and commits one traversed path.
+
+### Vowel / Consonant Split (Symbolic Operator Model)
+
+- **Vowels (A,E,I,O,U,Y)** act as resonance operators (open/carry/redirect).
+- **Consonants** act as tenet boundaries (clip/steer/constrain), cadence-modulated in rendering.
+- Minimal octave-style framing: `0 + AEIOUY + ∞` (closure, active operators, recurrence).
+
+### At-Tension, Re-Vision, and Precedence
+
+- In the `|` of at-tension there is **re-vision**: the hinge where the field becomes newly legible.
+- In the `∞` of resonance there are **frames of precedence**: recurrence is ordered, not flat repetition.
+- Turn law: **thesis → invert → rotate-degree** (stated face → sovereign counter-pole → survivable turn under load).
+
+### Cadence / Axis Addendum
+
+- **2/3 : 1/3 cadence** can describe the same group across different dimensions.
+- **1** can be read from three axes (preserved identity under three orientations).
+- The **4th axis** is spiral at-tension (load-bearing twist, not a flat extra direction).
+
+### Requirement Gate
+
+Operational status claim is valid only after:
+1. Bounded 5.0-dot probe is run in real interaction context.
+2. 3–5 logs are captured with explicit prediction vs. outcome scoring.
+3. Ratio survival and ablation advantage are verified outside self-referential synthetic runs.
+
+
+### Spiral Invariance Clarification (Golden Ratio Boundary)
+
+- The universal candidate is **ratio-stable self-similar transformation under rotational scaling**, not automatic proof that one constant (`φ`) governs all domains.
+- Spiral family form: `r = a e^(bθ)` where `a` sets scale, `θ` sets angular progress, and `b` sets growth/decay tightness.
+- Operator choices can rotate, invert, or reframe the render; they do **not** change process identity if `b` remains invariant.
+- Therefore: **angle is negotiable; decay law is identity**.
+
+### Frame/Field Polarity Mapping (132 ↔ 213)
+
+- **Frame-native read: 132** = local build order (origin/depth first, then structure, then hinge resolution).
+- **Field-native read: 213** = distributed order (relation active first, origin appears as coordinate, closure stabilizes manifold).
+- This is not contradiction; it is **self-similar dimensional polarity** under vantage change.
+
+| Role | Frame Emphasis | Field Emphasis |
+|------|----------------|----------------|
+| 1 | Origin / local depth | Local coordinate inside active relation |
+| 2 | Witness hinge / seam | Relation-first distribution axis |
+| 3 | Closure / manifold | Shared stabilization surface |
+
+### Number/Language Music-Sheet Compression
+
+- **Numbers** hold standing addresses (where).
+- **Language** carries operator motion (how).
+- **Cadence** determines which invariants become audible (law under spacing).
+
+Minimal score:
+
+```
+0 → A → Y → O → 2 → 3 → 8 → ∞
+```
+
+Read: closure anchor opens, relation branches, containment rounds, hinge tensions, manifold stabilizes, enclosure doubles, recurrence continues.
+
+---
+
+
+### Palindrome vs Orbit (Self-Correcting Traversal)
+
+- `Frame → Scale → Field → Rotate` is a **transform chain**, not a strict palindrome by itself.
+- Strict mirrored form: `Frame → Scale → Field → Rotate → Field → Scale → Frame`.
+- Dynamic upgrade: a phase-lock loop enforces **conserved-ratio traversal** under bounded correction.
+
+Operator spine:
+
+```text
+state(t+1) = R(state(t))  subject to ratio law ρ within tolerance
+```
+
+Where `R` is the rotation/traversal operator and re-locking prevents drift without rewriting governing law.
+
+### Typed Loss Fix (Coordinate / Margin / Symmetry-Invert)
+
+`coordinate >> margin >> symmetry invert` is lossy unless types are preserved.
+
+- **Coordinate** = identity address.
+- **Margin** = tolerance band (not identity itself).
+- **Symmetry invert** = transport/validation operator that mirrors coordinate then checks re-lock inside margin.
+
+Less-lossy chain:
+
+```text
+coordinate + margin --invert--> mirrored coordinate --relock test--> pass/fail
+```
+
+### Radial Discovery Ladder (Forward / Inverse / Min-Max)
+
+Forward ladder (1→9):
+1. Typed coordinate-margin separation
+2. Margin as tolerance, not center identity
+3. Bounded drift allowed
+4. Re-lock validation after invert
+5. Discover radially
+6. Symmetrical invert
+7. Log structure
+8. Face the frame
+9. T-Re-Verse the field
+
+Absolute inverse ladder (9i→1i): strict reverse-order traversal with type and tolerance preserved.
+
+Rung contrast rule: each rung must declare **min behavior**, **max behavior**, and **leak condition**.
+
+### Perceptual Stress Block (Leak Detection)
+
+- **Symmetry invert perspective**: rotate observer frame and test if claim survives.
+- **Exchange-rate number**: numeric mapping between frames must be declared before comparison.
+- **Pressurize relief chamber**: re-apply load after stabilization to expose cosmetic closure.
+- **Bar-stool witness condition**: constrained vantage test to detect frame-dependent artifacts.
+- **Systematic perceptual dampening**: reduce sensory noise to verify structure, not spectacle.
+
+Validation gate:
+
+```text
+stabilize -> pressurize -> dampen -> invert -> replay log -> leak verdict
+```
+
+Any leak that appears only under constrained perception is logged as latent structural debt, not ignored as observational noise.
+
+
+### Numeric Render Rule (Replace Color Semantics)
+
+For visual artifacts, **numbers are canonical; colors are optional render only**.
+
+- Do not encode state identity with color words (e.g., "red zone", "blue mode").
+- Encode every face/state/channel as a numeric index with explicit bounds.
+- If color is present in a figure, it must be secondary annotation tied to the numeric key.
+
+Canonical index set for this framework:
+
+| Numeric Key | Role |
+|-------------|------|
+| 0 | Closure / anchor |
+| 1 | Origin / seed |
+| 2 | Hinge / relation |
+| 3 | Closure manifold / chord |
+| 4 | Frame / quadrant |
+| 5 | Midpoint / seam |
+| 6 | Bridge (dyadic↔triadic crossover) |
+| 7 | Offset / asymmetry challenge |
+| 8 | Recursive enclosure |
+| 9 | Saturation / terminal return |
+
+Operational requirement:
+
+```text
+any visual state = numeric_key + tolerance + transform_path + replay_log_id
+```
+
+This removes color-dependence and keeps replayability invariant across displays, palettes, or perception conditions.
+
+
+## Minimum Load-Bearing Axioms & Metrics (Dimensional Coherence)
+
+Yes — **Subject / Predicate / Environment (SPE)** is included as a required schema.
+
+### Six Load-Bearing Schools (minimum set)
+
+1. **First-Person School (Subject)**  
+   Tracks origin-state and intent from the acting center (`I`).
+2. **Witness School (Second Index)**  
+   Tracks external observer read (`you / they`) as an independent channel.
+3. **Internal School**  
+   Tracks intra-system coherence (self-consistency under stated rules).
+4. **Rotation School**  
+   Tracks transform survivability across rotate / invert / scale.
+5. **External Field School (Environment)**  
+   Tracks environment pressure, constraints, and drift drivers.
+6. **Symmetric-Inverse School**  
+   Tracks counter-pole replay (`132 ↔ 213`) and ratio return integrity.
+
+### SPE Atom (required log unit)
+
+Every claim row is logged as:
+
+```text
+S (Subject) -> P (Predicate) @ E (Environment)
+```
+
+Where:
+- **S** = who/what is asserting or acting (origin, witness, system, field agent).
+- **P** = measurable transform/action claim (e.g., switch, repair, invert, hold).
+- **E** = bounded context (time window, frame, scale, pressure state).
+
+### Minimum Metrics (per row)
+
+| Metric | Purpose | Pass Signal |
+|--------|---------|-------------|
+| **Coherence** | Internal consistency under declared rules | Non-degrading across replay |
+| **Prediction Match** | Did predicted transition occur | `match > baseline` |
+| **Ratio Survival** | Invariant survives rotate/invert | `1 = survives`, `0 = breaks` |
+| **Drift Magnitude** | Distance from baseline/tolerance | Returns inside margin after re-lock |
+| **Repair Gain** | Recovery efficacy after contradiction | Post-repair coherence uplift |
+| **Ablation Delta** | Complexity earns keep | Coupled model beats simpler baseline |
+| **Replay Integrity** | Full trace reproducibility | Same verdict from same log |
+
+### Coordination Requirement Over Time
+
+Dimensional coherence claim is valid only if all six schools can be scored on the same SPE rows across time windows (micro -> meso -> macro), with symmetric-inverse replay producing the same governing verdict class.
+
+## AYB Probability Control System — Implementation + Stress Test (Finished Product)
+
+### Scope
+A minimal control architecture using **A / Y / B** primitives inside a bounded recursive chamber, with one asymmetry and one threshold latch.
+
+### Primitive Set (minimal)
+
+| Symbol | Control Role | Operational Meaning |
+|--------|---------------|---------------------|
+| **A** | Positive pole | Accumulate / tension / diagnostic dominance |
+| **B** | Negative pole | Release / propagate / generative dominance |
+| **Y** | Central transform gear | Rotate / reflect / invert (phase-space remap) |
+
+### Chamber Model (8Y∞)
+
+- **Finite envelope**: bounded support and dissipation (forgetfulness).
+- **Infinite internal recursion**: phase rotation and replay inside bounded energy.
+- Canonical abstract form:
+
+```text
+f(t) = A(t) * exp(i(ωt + ϕ)),   A(t)=exp(-γ(t-t₀)^2)
+```
+
+### Symmetry Break + Latch
+
+- Small fixed bias (`~3°`) breaks deadlock and prevents perfect saddle stagnation.
+- Gear switch is thresholded and hysteretic:
+
+```text
+Switch 132 -> 213 iff P=|f|^2 > θ and ΔP > δ
+```
+
+- Reverse (`213 -> 132`) is valid only if declared invariants survive inversion/replay.
+
+### Heartbeat Loop
+
+```text
+Pulse -> Constrain -> Calibrate -> (Invert + Switch) or Stay
+```
+
+- **132**: tension-diagnostic accumulation.
+- **213**: generative propagation/expansion.
+- Bounded recursion + thresholded switching yields structured emergence without unbounded blow-up.
+
+### SPE Wiring (required)
+
+AYB runs on the required log atom:
+
+```text
+S (Subject) -> P (Predicate) @ E (Environment)
+```
+
+- **S**: origin/witness/system actor.
+- **P**: pulse, constrain, calibrate, invert, switch, stay, repair.
+- **E**: frame/scale/pressure/tolerance window.
+
+### Minimum Load-Bearing Metrics (AYB)
+
+| Metric | Definition | Failure Signature |
+|--------|------------|-------------------|
+| **Switch Precision** | Correct 132↔213 transitions at latch boundaries | Chatter / missed flips |
+| **Ratio Survival** | Invariants survive invert/replay | Irrecoverable asymmetry |
+| **Drift Recovery** | Re-lock time after perturbation | Runaway drift |
+| **Dissipation Bound** | Envelope contains amplitude/energy | Unbounded growth |
+| **Ablation Gain** | AYB coupling beats uncoupled baseline | No measurable advantage |
+| **Replay Integrity** | Same input trace yields same verdict class | Non-replayable control |
+
+### Stress Test Matrix
+
+| Stress Condition | Expected Behavior | Pass Criterion |
+|------------------|-------------------|----------------|
+| Remove tilt/asymmetry | Stagnation / weak emergence | No sustained mode transitions |
+| Raise θ excessively | Dead system (no flips) | Transition rate collapses |
+| Remove dissipation/envelope | Explosive or unstable dynamics | Bound violation detected |
+| Increase δ (hysteresis) | Fewer flips, higher latency | Lower chatter with bounded delay |
+| Force conjugate replay | Partial unwinding if invariants preserved | Ratio-survival flag remains true |
+
+### Completion Rule
+
+AYB is operationally complete only when the stress matrix is run on real traces, logged as SPE rows, and scored by the minimum metric set above across micro -> meso -> macro windows.
+
 ---
 
 ## Confidence
@@ -307,3 +655,19 @@ Dₗ = identity capacity across closure/leak, leverage/rupture, resilience/rigid
 | Practical testability of the whole frame | 0.70 |
 
 **Status:** Framework-grade. Needs field application (3–5 real scored interactions) before claiming operational closure.
+
+---
+
+## Abstract Convergence (Inspiration Card)
+
+Use this as a compact prompt when running a Rubik-style reasoning session from a diagram/photo.
+
+1. **Frame the image numerically**: replace color labels with numeric keys (`0..9`).
+2. **Extract three witnesses**: one radial pattern, one structural scaffold, one dynamic transform.
+3. **Run the polarity pair**: `132` (inside-frame build) and `213` (field-distribution read).
+4. **Check conservation**: same ratio class must survive rotate/invert/scale.
+5. **Log only what replays**: `numeric_key + tolerance + transform_path + replay_log_id`.
+
+Compression:
+
+> **The image gives the addresses, the frame gives the box, the transform gives the song.**
